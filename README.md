@@ -1,7 +1,7 @@
 # bot-1299
-Knight Online MMORPG full bot for v1299
+"knight online" mmorpg - bot for v1298-v1299
 
 dll injection,
 bypassing anti-cheat, 
-hooking packet sending and receiving,
+hooking packet send-recv,
 modifying memory.
